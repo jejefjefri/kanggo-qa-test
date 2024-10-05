@@ -1,0 +1,27 @@
+Report title muncul dan sesuai (pass)
+Report element layanan ditemukan dan sesuai (pass)
+Report title muncul dan sesuai (pass)
+Report element layanan ditemukan dan sesuai (pass)
+Report title muncul dan sesuai (pass)
+Report element layanan ditemukan dan sesuai (pass)
+Report title muncul dan sesuai (pass)
+Report element layanan ditemukan dan sesuai (pass)
+Report title muncul dan sesuai (pass)
+Report element layanan ditemukan dan sesuai (pass)
+Report title muncul dan sesuai (pass)
+Report element layanan ditemukan dan sesuai (pass)
+Report layanan element tidak ditemukan atau error: Download button not found or not displayed.
+Report title muncul dan sesuai (pass)
+Report element layanan ditemukan dan sesuai (pass)
+[10/5/2024, 9:42:39 PM]
+Report title muncul dan sesuai (pass)
+Report element layanan ditemukan dan sesuai (pass)
+
+[10/5/2024, 9:48:59 PM]
+Report title muncul dan sesuai (pass)
+Report element layanan ditemukan dan sesuai (pass)
+
+[10/5/2024, 9:50:56 PM]
+Report title tidak ditemukan atau tidak sesuai (failed)
+Report element layanan ditemukan dan sesuai (pass)
+
