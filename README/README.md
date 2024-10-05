@@ -15,8 +15,8 @@ Sebelum memulai, pastikan kamu telah memenuhi syarat berikut:
 
 1. **Clone repository ini:**
    ```bash
-   git clone <URL_REPOSITORY>
-   cd <NAMA_FOLDER>
+   git clone https://github.com/jejefjefri/kanggo-qa-test.git
+   cd kanggo-qa-test
    ```
 
 2. **Instalasi dependensi:**
